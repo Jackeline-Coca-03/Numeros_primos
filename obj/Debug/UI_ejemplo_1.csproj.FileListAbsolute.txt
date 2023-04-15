@@ -9,3 +9,14 @@ F:\Docencia\2023\ClasesSabado\UI_ejemplo_1\UI_ejemplo_1\obj\Debug\UI_ejemplo_1.c
 F:\Docencia\2023\ClasesSabado\UI_ejemplo_1\UI_ejemplo_1\obj\Debug\UI_ejemplo_1.csproj.CoreCompileInputs.cache
 F:\Docencia\2023\ClasesSabado\UI_ejemplo_1\UI_ejemplo_1\obj\Debug\UI_ejemplo_1.exe
 F:\Docencia\2023\ClasesSabado\UI_ejemplo_1\UI_ejemplo_1\obj\Debug\UI_ejemplo_1.pdb
+C:\Users\UNSXX-214\Downloads\Ejemplo1_WindowsForm\obj\Debug\UI_ejemplo_1.csproj.AssemblyReference.cache
+C:\Users\UNSXX-214\Downloads\Ejemplo1_WindowsForm\obj\Debug\UI_ejemplo_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\UNSXX-214\Downloads\Ejemplo1_WindowsForm\obj\Debug\UI_ejemplo_1.frmPrincipal.resources
+C:\Users\UNSXX-214\Downloads\Ejemplo1_WindowsForm\obj\Debug\UI_ejemplo_1.Properties.Resources.resources
+C:\Users\UNSXX-214\Downloads\Ejemplo1_WindowsForm\obj\Debug\UI_ejemplo_1.csproj.GenerateResource.cache
+C:\Users\UNSXX-214\Downloads\Ejemplo1_WindowsForm\obj\Debug\UI_ejemplo_1.csproj.CoreCompileInputs.cache
+C:\Users\UNSXX-214\Downloads\Ejemplo1_WindowsForm\obj\Debug\UI_ejemplo_1.exe
+C:\Users\UNSXX-214\Downloads\Ejemplo1_WindowsForm\obj\Debug\UI_ejemplo_1.pdb
+C:\Users\UNSXX-214\Downloads\Ejemplo1_WindowsForm\bin\Debug\UI_ejemplo_1.exe.config
+C:\Users\UNSXX-214\Downloads\Ejemplo1_WindowsForm\bin\Debug\UI_ejemplo_1.exe
+C:\Users\UNSXX-214\Downloads\Ejemplo1_WindowsForm\bin\Debug\UI_ejemplo_1.pdb

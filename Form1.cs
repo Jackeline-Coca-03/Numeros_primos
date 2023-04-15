@@ -52,12 +52,35 @@ namespace UI_ejemplo_1
         {
             return numero1 + numero2;
         }
-        
+        private bool EsPrimo(int num)
+        {
+            for (int i = 2; i < num; i++)
+            {
+                if (num % i == 0)
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
+        private string Primo(int numero1, int numero2)
+        {
+            string prim="";
+            for(int i = numero1; i <= numero2; i++)
+            {
+                if (EsPrimo(i))
+                {
+                    prim = prim + i + " ";
+                }
+            }
+            return prim;
+        }
         private void btnPrimos_Click(object sender, EventArgs e)
         {
-           //TODO Dado un rango de valores (numero1 - numero2), mostrar en 
-           //es un mensaje (MessageBox.Show) los numeros primos dentro el trando
-           
+            int numero1 = Convert.ToInt32(txtN1.Text);
+            int numero2 = Convert.ToInt32(txtN2.Text);
+            
+            MessageBox.Show("Los numeros primos desde "+numero1+" hasta "+numero2+" es: \n\n"+Primo(numero1, numero2));
         }
     }
 }
